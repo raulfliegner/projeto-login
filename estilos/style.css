@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*
+Paleta de cores:
+verde claro: #02731E
+verde escuro: #025920
+*/
+
+:root {
+    --cor01: #02731E;
+    --cor02: #025920;
+}
